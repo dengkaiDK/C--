@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stack": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "deque": "cpp",
+        "xstring": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
