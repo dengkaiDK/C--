@@ -4,7 +4,9 @@
         "iostream": "cpp",
         "unordered_map": "cpp",
         "deque": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "string": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
