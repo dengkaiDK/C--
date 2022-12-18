@@ -15,7 +15,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb",
-            "miDebuggerPath": "D:\\mingw\\llvm-mingw-20220906-msvcrt-i686\\bin\\lldb-vscode.exe",
+            "miDebuggerPath": "D:\\mingw\\llvm-mingw-20220906-msvcrt-i686\\bin\\lldb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
